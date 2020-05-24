@@ -1,0 +1,14 @@
+.blue-text {
+    color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+}
+h2, h3 {
+    color:pink;
+    text-align: center;
+    font: 100;
+}
+body {
+    background-color:lightslategray
+}
