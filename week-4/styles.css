@@ -1,0 +1,74 @@
+#mainnav {
+    background-color: lightgray;
+    position: fixed;
+
+
+}
+.home {
+    position: relative;
+    left: 200px;
+}
+.about {
+    position: relative;
+    left: 500px; 
+}
+.other {
+    position: relative;
+    left: 800px;
+}
+.firstblog {
+    height: 120px;
+   max-width: 1000px;
+   padding: 60px;
+   padding-bottom: 200px;
+   text-align: center;
+   padding-left:400px;
+   padding-right:200px
+}
+.secondblog {
+    height: 120px;
+    max-width: 1000px;
+    padding: 60px;
+    padding-bottom: 200px;
+    text-align: center;
+    padding-left:400px;
+    padding-right:200px
+}
+.thirdblog {
+    
+    height: 120px;
+    max-width: 1000px;
+    padding: 60px;
+    padding-bottom: 200px;
+    text-align: center;
+    padding-left:400px;
+    padding-right:200px
+}
+.firstpic {
+    float: right;
+    margin:10px;
+    padding-right: 200px;
+}
+.secondpic {
+    float: right;
+    margin:10px;
+    padding-right: 200px;
+}
+.thirdpic {
+    float: right;
+    margin:10px;
+    padding-right: 200px;
+}
+#box1 {
+    background-color:#F5C6D6 ;
+    width: 1000px;
+    height: 150px;
+}
+#box2 {
+    background-color:#EE2E84 ;
+    width:200px;
+    height:150px;
+    padding: 20px;
+    margin: 15px;
+    
+}
