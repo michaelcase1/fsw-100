@@ -1,0 +1,132 @@
+#box1 {
+  position: absolute;
+  background-color: #f5c6d6;
+  height: 130px;
+  width: 1327px;
+}
+#box2 {
+  position: absolute;
+  background-color: #ee2e84;
+  height: 130px;
+  width: 325px;
+  margin-top: 140px;
+}
+#box3 {
+  position: absolute;
+  background-color: #ee2e84;
+  height: 130px;
+  width: 325px;
+  margin-top: 140px;
+  margin-left: 335px;
+}
+#box4 {
+  position: absolute;
+  background-color: #ee2e84;
+  height: 130px;
+  width: 325px;
+  margin-top: 140px;
+  margin-left: 670px;
+}
+#box5 {
+  position: absolute;
+  background-color: #ee2e84;
+  height: 130px;
+  width: 325px;
+  margin-top: 140px;
+  margin-left: 1005px;
+}
+#box6 {
+  position: absolute;
+  background-color: #85cfd8;
+  height: 130px;
+  width: 660px;
+  margin-top: 280px;
+}
+#box7 {
+  position: absolute;
+  background-color: #85cfd8;
+  height: 130px;
+  width: 660px;
+  margin-top: 280px;
+  margin-left: 670px;
+}
+#box8 {
+  position: absolute;
+  background-color: #8dc63f;
+  height: 130px;
+  width: 990px;
+  margin-top: 420px;
+}
+#box9 {
+  position: absolute;
+  background-color: #e76e34;
+  height: 130px;
+  width: 330px;
+  margin-top: 420px;
+  margin-left: 1000px;
+}
+@media only screen and (max-width: 768px) {
+  #box1 {
+    position: static;
+    background-color: #f5c6d6;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box2 {
+    position: static;
+    background-color: #ee2e84;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box3 {
+    position: static;
+    background-color: #ee2e84;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box4 {
+    position: static;
+    background-color: #ee2e84;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box5 {
+    position: static;
+    background-color: #ee2e84;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box6 {
+    position: static;
+    background-color: #85cfd8;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box7 {
+    position: static;
+    background-color: #85cfd8;
+    height: 130px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  #box8 {
+    position: static;
+    background-color: #8dc63f;
+    height: 130px;
+    width: 990px;
+    margin: 10px 0;
+  }
+  #box9 {
+    position: static;
+    background-color: #e76e34;
+    height: 130px;
+    width: 330px;
+    margin: 10px 0;
+  }
+}
