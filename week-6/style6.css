@@ -1,0 +1,100 @@
+#box1 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    transition-property: background-color;
+    transition-duration: 500ms;
+
+     }
+
+#box1:hover {
+    background-color: red;
+    width: 200px;
+}
+
+#box2 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color:blue;
+    transition-property: background-color;
+    transition-duration: 1s;
+
+}
+#box2:hover {
+    background-color:aquamarine;
+    width: 200px;
+    border: 3px dashed purple;
+}
+#box3 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color:burlywood;
+    transition-property: background-color;
+    transition-duration: 1s;
+
+}
+#box3:hover {
+    background-color: hotpink;
+    width: 200px;
+    border: 3px dotted coral;
+    box-shadow: lawngreen 5px 10px;
+}
+
+#box4 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color:slateblue;
+    transition-property: background-color;
+    transition-duration: 1s;
+
+}
+#box4:hover {
+    background-color: hotpink;
+    width: 250px;
+    border: 3px dotted coral;
+    box-shadow: grey 5px 10px;
+    opacity: 50%;
+}
+#box5 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 5px solid black;
+    background-color:slateblue;
+    transition-property: background-color;
+    transition-duration: 1s;
+
+}
+#box5:hover {
+    background-color: hotpink;
+    width: 250px;
+    border: 10px dotted coral;
+    box-shadow: grey 5px 10px;
+    opacity: 20%;
+
+}
+#box6 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: 5px solid black;
+    background-color:slateblue;
+    transition-property: background-color;
+    transition-duration: 1s;
+
+}
+#box6:hover {
+    background-color: black;
+    width: 250px;
+    border: 10px dotted coral;
+    box-shadow: grey 5px 10px;
+    opacity: 80%;
+
+}
